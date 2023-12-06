@@ -1,0 +1,130 @@
+.formback{
+    background-color: white;
+    padding: 2%;
+    width: 70%;
+    margin-left: 15%;
+    border-radius: 2%;
+    margin-top: 2%;
+}
+
+h2 {
+    font-family: 'Pacifico', cursive;
+    font-weight: bold;
+
+}
+
+.h2 {
+    font-family: 'Pacifico', cursive;
+    padding: 10px 10px;
+    color: white;
+}
+
+.home{
+  background-color: white;
+  padding: 70px 0;
+  text-align: center;
+  border-radius: 2%;
+  margin: auto;
+  margin-top: 20%;
+}
+
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #6297c0;
+    
+}
+
+nav li {
+    float: right;
+}
+
+nav li a{
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    
+}
+
+.user{
+    pointer-events: none;
+    font-weight: bold;
+}
+
+label{
+    font-weight: bold;
+}
+
+
+nav li a:hover {
+    background-color: #111;
+}
+
+.disabled{
+    background-color: #96aab9;
+}
+
+
+
+.alert {
+    background-color: #58d4ce;
+    color: yellow;
+    float: left;
+}
+
+
+
+/* CSS */
+.button-64 {
+  align-items: center;
+  background-image: linear-gradient(144deg,#AF40FF, #5B42F3 50%,#00DDEB);
+  border: 0;
+  border-radius: 8px;
+  box-shadow: rgba(151, 65, 252, 0.2) 0 15px 30px -5px;
+  box-sizing: border-box;
+  color: #FFFFFF;
+  display: flex;
+  font-family: Phantomsans, sans-serif;
+  justify-content: center;
+  line-height: 1em;
+  padding: 3px;
+  text-decoration: none;
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+  white-space: nowrap;
+  cursor: pointer;
+}
+
+.button-64:active,
+.button-64:hover {
+  outline: 0;
+}
+
+.button-64 span {
+  background-color: rgb(5, 6, 45);
+  padding: 16px 24px;
+  border-radius: 6px;
+
+  transition: 300ms;
+}
+
+.button-64:hover span {
+  background: none;
+}
+
+@media (min-width: 768px) {
+  .button-64 {
+    font-size: 18px;
+
+  }
+}
+
+
+
+

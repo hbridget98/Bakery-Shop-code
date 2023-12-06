@@ -1,0 +1,12 @@
+1;"Apple pie";2.8;10
+2;"Chocolate chips cookies";1.1;35
+3;Croissant;0.8;20
+4;"Whoopie pie";3.5;5
+5;"Mocha cofee";1.5;30
+6;"Red Velvet cake portion";2.5;15
+7;"Banana bread";5.3;5
+8;Capuccino;1.15;30
+9;"Blueberry muffins";2.5;20
+10;Bagels;1.5;13
+11;"Café au lait";1.5;30
+12;"Irish cofee";1.6;15

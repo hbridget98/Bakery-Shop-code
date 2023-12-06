@@ -1,0 +1,7 @@
+1;androidbeing;pass1;admin;Andrea;"Morales Mata"
+2;anivalle;pass2;admin;"Ani Liseth";"Valle Banegas"
+3;garcia77;pass3;staff;Pablo;"Garcia Torres"
+4;happyflower;pass4;staff;Maria;"Sanchez Luque"
+5;edgarbravo;pass5;staff;Edgar;"Bravo Lopez"
+6;lovecroissants;pass6;staff;Eric;"Manchego Rodrigez"
+9;lollypop;pass9;admin;Carolina;"Estevez Palau"
